@@ -376,3 +376,16 @@ input.button:hover {
 .red {
   color: #871719;
 }
+
+footer .wrap {
+  padding-bottom: 80px; 
+}
+
+footer {
+  background-color: rgba(0,0,0,0.8); 
+  color: white; 
+}
+
+.right-text {
+  text-align: right; 
+}
